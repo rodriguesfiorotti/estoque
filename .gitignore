@@ -1,0 +1,33 @@
+*.identcache
+*.local
+*.dsk
+*.tvsconfig
+__history/
+ModelSupport*
+
+# Arquivos compilados
+__recovery/
+
+# Arquivos de configuração do ambiente de desenvolvimento
+*.cfg
+
+# Arquivos temporários
+*.~*
+
+# Cache de Delphi
+__history/
+
+# Pasta temporária
+__tmp/
+
+# Pasta de backup
+Backup/
+
+# Arquivos de saída da compilação
+__history/
+*.local
+*.tvsconfig
+*.identcache
+
+# Pasta Win32
+Win32/
